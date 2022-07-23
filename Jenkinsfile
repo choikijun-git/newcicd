@@ -1,7 +1,7 @@
 def mainDir="/root/my_gradle"
 def ecrLoginHelper="docker-credential-ecr-login"
 def region="ap-northeast-2"
-def ecrUrl="222179995953.dkr.ecr.ap-northeast-2.amazonaws.com/jun"
+def ecrUrl="222179995953.dkr.ecr.ap-northeast-2.amazonaws.com"
 def repository="jun"
 def deployHost="172.31.47.184"
 
