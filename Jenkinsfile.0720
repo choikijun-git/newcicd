@@ -1,4 +1,4 @@
-def mainDir="/root/my_gradle"
+def mainDir="root/my_gradle"
 def ecrLoginHelper="docker-credential-ecr-login"
 def region="ap-northeast-2"
 def ecrUrl="222179995953.dkr.ecr.ap-northeast-2.amazonaws.com/jun"
