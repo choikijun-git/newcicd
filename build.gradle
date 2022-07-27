@@ -26,6 +26,14 @@ jar {
 	enabled = false
 }
 
+bootJar {
+    enabled = false
+}
+jar {
+    enabled = true
+}
+
+
 tasks.withType(JavaCompile) {
     options.encoding = 'UTF-8'
 }

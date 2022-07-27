@@ -5,6 +5,7 @@ def ecrUrl="222179995953.dkr.ecr.ap-northeast-2.amazonaws.com"
 def repository="jun"
 def deployHost="10.0.0.243"
 
+
 pipeline {
     agent any
 
